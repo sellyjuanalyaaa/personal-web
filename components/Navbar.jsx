@@ -545,9 +545,9 @@ export default function Navbar() {
   return (
     <header className="fixed inset-x-0 top-0 z-50">
       <div className="glass border-b border-white/50 bg-white/75 py-3 dark:border-slate-800/70 dark:bg-slate-950/75">
-        <div className="mx-auto flex w-full max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
+        <div className="relative mx-auto flex w-full max-w-7xl items-center justify-between md:justify-center px-4 sm:px-6 lg:px-8">
           <PillNav
-            className="flex-1 md:flex-none md:justify-center"
+            className="flex-1 md:flex-none"
             logo="/images/sellyjuan-logo.svg"
             logoAlt="SellyJuan Logo"
             items={navItems}
@@ -561,7 +561,7 @@ export default function Navbar() {
           <button
             type="button"
             onClick={toggleTheme}
-            className="ml-4 inline-flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-slate-200 bg-white text-slate-700 shadow-sm transition-transform hover:-translate-y-1 hover:border-slate-300 hover:bg-slate-50 dark:border-slate-800 dark:bg-slate-950 dark:text-slate-200 dark:hover:border-slate-700 dark:hover:bg-slate-900"
+            className="ml-4 inline-flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-slate-200 bg-white text-slate-700 shadow-sm transition-transform hover:-translate-y-1 hover:border-slate-300 hover:bg-slate-50 md:absolute md:right-4 md:ml-0 lg:right-8 dark:border-slate-800 dark:bg-slate-950 dark:text-slate-200 dark:hover:border-slate-700 dark:hover:bg-slate-900"
             aria-label="Toggle theme"
           >
             {theme === "dark" ? <SunMedium size={18} /> : <MoonStar size={18} />}

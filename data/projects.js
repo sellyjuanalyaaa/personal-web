@@ -14,7 +14,7 @@ export const projects = [
     description:
         "A home service booking platform that connects users with trusted cleaning and repair workers through a simple and responsive interface.",
     tech: ["Laravel", "Vue.js", "Tailwind CSS", "FilamentPHP", "MySQL"],
-    image: "/images/beresin.png",
+    image: "/images/Beresin.png",
     github: "https://github.com/sellyjuanalyaaa/beresindong",
     // demo: "https://example.com/organization-landing-page",
     category: "Front-end",
