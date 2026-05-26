@@ -4,7 +4,7 @@ export const projects = [
     description:
       "An informative village profile website designed to showcase local news, demographics, village potential, and community activities with a clean and accessible interface.",
     tech: ["Laravel", "Tailwind CSS", "MySQL"],
-    image: "/images/Sodongba.png",
+    image: "/images/SodongBa.png",
     github: "https://github.com/sellyjuanalyaaa/sodongbasari",
     demo: "https://sodongbasari.id/",
     category: "Full-stack",
