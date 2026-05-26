@@ -17,5 +17,5 @@
   <path d="M320 620C340 520 398 470 450 470C502 470 560 520 580 620" stroke="#E2E8F0" stroke-width="36" stroke-linecap="round"/>
   <circle cx="450" cy="382" r="26" fill="#0F172A"/>
   <path d="M408 352C426 330 474 330 492 352" stroke="#0F172A" stroke-width="18" stroke-linecap="round"/>
-  <text x="450" y="790" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#E2E8F0">Selly Juan</text>
+  <text x="450" y="790" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#E2E8F0">Sellyjuan</text>
 </svg>

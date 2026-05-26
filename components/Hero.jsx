@@ -51,7 +51,7 @@ export default function Hero() {
 						<Button href="#projects">
 							View Projects <ArrowRight className="ml-2" size={16} />
 						</Button>
-						<Button href="/cv.pdf" variant="secondary" download>
+						<Button href="/cv-sellyjuanalyarosalina.pdf" variant="secondary" download>
 							Download CV <Download className="ml-2" size={16} />
 						</Button>
 						<Button href="#contact" variant="ghost">
@@ -72,6 +72,7 @@ export default function Hero() {
 							alt="Portrait of SellyJuan"
 							fill
 							priority
+							unoptimized
 							className="object-contain object-top -translate-y-8 sm:-translate-y-6 lg:-translate-y-6"
 						/>
 					</div>

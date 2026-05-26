@@ -1,4 +1,4 @@
-﻿# Selly Juan Alya Rosalina - Personal Portfolio
+﻿# Sellyjuan Alya Rosalina - Personal Portfolio
 
 A modern, responsive, and interactive personal portfolio website built with **Next.js App Router**, **React**, **Tailwind CSS**, **Framer Motion**, and **GSAP**.
 
@@ -59,8 +59,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 - **Email**: [sellyjuanalyarsln26@gmail.com](mailto:sellyjuanalyarsln26@gmail.com)
 - **GitHub**: [@sellyjuanalyaaa](https://github.com/sellyjuanalyaaa)
-- **LinkedIn**: [Selly Juan Alya Rosalina](https://www.linkedin.com/in/sellyjuan-alya-rosalina123/)
+- **LinkedIn**: [Sellyjuan Alya Rosalina](https://www.linkedin.com/in/sellyjuan-alya-rosalina123/)
 
 ---
-*Built with ❤️ by Selly Juan Alya Rosalina.*
+*Built with ❤️ by Sellyjuan Alya Rosalina.*
 "# personal-web" 
